@@ -1,7 +1,7 @@
 {  
   "homepage": "https://SafiyaAnsari.github.io/Razorpay_clone",
 "scripts":{
-  "predeploy":"npm npm build",
+  "predeploy":"npm run build",
   "deploy":"gh-pages -d dist",
    "start":"vite"
 
