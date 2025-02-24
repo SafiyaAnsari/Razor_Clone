@@ -1,0 +1,15 @@
+{  
+  "homepage": "https://SafiyaAnsari.github.io/Razorpay_clone",
+"scripts":{
+  "predeploy":"npm npm build",
+  "deploy":"gh-pages -d dist",
+   "start":"vite"
+
+},
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^3.2.4",
+    "vite": "^6.1.0"
+  }
+}
