@@ -2,7 +2,7 @@
  
 "scripts":{
  
-   "start":"vite"
+   "start":"vite build"
 
 },
   "devDependencies": {
