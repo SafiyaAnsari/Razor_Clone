@@ -1,9 +1,60 @@
-# Razorpay Clone|Front-End Development
-[Demo Vedio](https://drive.google.com/file/d/1XA62kujyxfBbT5rbA1XJgh3eI1oaY2t_/view?usp=sharing) 
+# 💳 Razorpay Clone | Front-End Development
 
-[Demo Link](https://razorpay-clone-safiya.netlify.app/)
+A responsive front-end clone of the Razorpay website, developed using **HTML** and **Tailwind CSS**.
 
-  • Developed a responsive front-end clone of the Razorpay website using HTML and Tailwind CSS, ensuring pixel-perfect 
- design and smooth user experience.<br>
- • Optimized the design for mobile and desktop responsiveness, ensuring cross-browser compatibility.<br>
- • Implemented interactive UI components, navigation menus, and animations to enhance usability.
+---
+
+## 📺 Demo Video
+
+🎥 [Watch the demo on Google Drive](https://drive.google.com/file/d/1XA62kujyxfBbT5rbA1XJgh3eI1oaY2t_/view)
+
+---
+
+## 🌐 Live Demo
+
+🔗 [View the live website](https://razor-clone-virid.vercel.app/)
+
+---
+
+## 🚀 Features
+
+- 📱 Fully responsive design optimized for **mobile** and **desktop** devices  
+- 🎨 **Pixel-perfect layout** inspired by Razorpay's official website  
+- 💻 Built using **HTML** + **Tailwind CSS** for fast and efficient styling  
+- 🧭 Implemented smooth **navigation menus**, **interactive UI components**, and **CSS animations**  
+- 🌍 Ensures **cross-browser compatibility** for consistent rendering  
+
+---
+
+## 📂 Tech Stack
+
+- HTML5  
+- Tailwind CSS  
+- Vite (for development & build)
+
+---
+
+## 🖼️ Preview
+
+![Homepage Screenshot](images/ss1.png)  
+
+---
+
+## 📁 Project Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/razorpay-clone.git
+
+# Navigate into the folder
+cd razorpay-clone
+
+# Install dependencies
+npm install
+
+# Run the dev server
+npm run dev
+
+# Build for production
+npm run build
+
